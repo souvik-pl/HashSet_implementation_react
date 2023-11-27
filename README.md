@@ -2,7 +2,7 @@
 In this project, I have implemented an HashSet class which has the following functionalities -
 - `void add(data)`: Inserts the data into the HashSet.
 - `void remove(data)`: Removes the data in the HashSet. If data does not exist in the HashSet, do nothing.
-- `bool contains(data)`: Returns whether the data exists in the HashSet or not.
+- `boolean contains(data)`: Returns whether the data exists in the HashSet or not.
 
 
 ## Installation
