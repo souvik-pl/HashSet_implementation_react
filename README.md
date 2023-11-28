@@ -1,8 +1,8 @@
 # HashSet implementation in React
 In this project, I have implemented an HashSet class which has the following functionalities -
-- `void add(data)`: Inserts the data into the HashSet.
-- `void remove(data)`: Removes the data in the HashSet. If data does not exist in the HashSet, do nothing.
-- `boolean contains(data)`: Returns whether the data exists in the HashSet or not.
+- `void add(data: number)`: Inserts the data into the HashSet.
+- `void remove(data: number)`: Removes the data in the HashSet. If data does not exist in the HashSet, do nothing.
+- `boolean contains(data: number)`: Returns whether the data exists in the HashSet or not.
 
 
 ## Installation
